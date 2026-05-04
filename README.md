@@ -1,8 +1,8 @@
 # Hey, I'm Swapnil Nimbalkar 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swapnil-nimbalkar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/swapnil-nimbalkar](https://www.linkedin.com/in/swapnilnimbalkar-backend-engg/))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swapnilnimbalkarofficial@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swapnil-nimbalkar)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/swapnil-nimbalkar](https://github.com/swapnilnimbalkarofficial/swapnilnimbalkarofficial))
 
 **Full Stack & AI Engineer** who ships end-to-end products — REST APIs, auth layers, async backends, and LLM-powered tools. I don't wait for a Figma file. I open a code editor.
 
