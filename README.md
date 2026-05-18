@@ -1,6 +1,9 @@
 # Hey, I'm Swapnil Nimbalkar 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnilnimbalkar-backend-engg/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swapnilnimbalkarofficial@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swapnilnimbalkarofficial)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnilnimbalkar-backend-engg/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swapnilnimbalkarofficial@gmail.com) 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swapnilnimbalkarofficial)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/swapniln4201)
 
 **Full Stack & AI Engineer** who ships end-to-end products — REST APIs, auth layers, async backends, and LLM-powered tools. I don't wait for a Figma file. I open a code editor.
 
